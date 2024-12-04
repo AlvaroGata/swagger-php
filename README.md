@@ -2,6 +2,10 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/zircote/swagger-php.svg)](https://packagist.org/packages/zircote/swagger-php)
 [![License](https://img.shields.io/badge/license-Apache2.0-blue.svg)](LICENSE)
 
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/zircote/swagger-php?label=Version&sort=semver)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/zircote/swagger-php)
+
+
 # swagger-php
 
 Generate interactive [OpenAPI](https://www.openapis.org) documentation for your RESTful API using [PHP attributes](https://www.php.net/manual/en/language.attributes.overview.php) (preferred) or 
